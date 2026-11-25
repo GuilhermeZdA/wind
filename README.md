@@ -32,7 +32,7 @@ class EventoFactory {
 class Atividade {
     -int id
     -String titulo
-    -Date horario
+    -String horario
     -String local
     -int cargaHoraria
 }
